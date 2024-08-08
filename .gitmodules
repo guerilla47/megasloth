@@ -1,0 +1,3 @@
+[submodule "xerosploit"]
+	path = xerosploit
+	url = https://github.com/LionSec/xerosploit
